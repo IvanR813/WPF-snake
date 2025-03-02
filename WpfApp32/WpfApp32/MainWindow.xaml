@@ -72,7 +72,7 @@
                 <Border BorderBrush="Silver" BorderThickness="2" Width="300" Height="300" Canvas.Left="150" Canvas.Top="150" Name="bdrNewHighscore" Panel.ZIndex="1" Visibility="Collapsed">
                     <StackPanel Orientation="Vertical" Background="AliceBlue">
                         <TextBlock HorizontalAlignment="Center" FontSize="34" FontWeight="Bold" Margin="20">Nov rekord!</TextBlock>
-                        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" FontSize="16">  
+                        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" FontSize="20" TextAlignment="Center">  
                             Cestitam - uspeo si da udjes u SnakeWPF listu rekorda! Unesi svoje ime...
                         </TextBlock>
                         <TextBox Name="txtPlayerName" FontSize="28" FontWeight="Bold" MaxLength="8" Margin="20" HorizontalContentAlignment="Center"></TextBox>
