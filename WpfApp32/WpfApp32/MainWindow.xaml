@@ -85,7 +85,7 @@
                         <TextBlock HorizontalAlignment="Center" FontSize="26" FontWeight="Bold">...izgubio si!</TextBlock>
                         <TextBlock Margin="20" TextAlignment="Center" FontSize="16">Ostvareni poeni:</TextBlock>
                         <TextBlock Name="tbFinalScore" TextAlignment="Center" FontSize="48" FontWeight="Bold" Foreground="Maroon">0</TextBlock>
-                        <TextBlock TextAlignment="Center" FontSize="16" Margin="20">Pritisni SPACE da bi zapoceo novu igru!</TextBlock>
+                        <TextBlock TextAlignment="Center" FontSize="14" Margin="20">Pritisni SPACE da bi zapoceo novu igru!</TextBlock>
                     </StackPanel>
                 </Border>
             </Canvas>
